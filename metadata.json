@@ -1,0 +1,8 @@
+{
+    "name": "The Fish",
+    "description": "Auto Fisher go BRrr",
+    "author": "Ghostyy",
+    "entry": "index.js",
+    "version" : "0.1.0",
+    "requires":[]
+  }
